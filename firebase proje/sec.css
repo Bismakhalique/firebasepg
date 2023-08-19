@@ -1,0 +1,59 @@
+
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+.username-form {
+    display: inline-block;
+    border: none;
+    border-bottom: 1px solid grey;
+    padding: 5px;
+    margin-left: 200px;
+    margin-top: 22px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.username-form input {
+    border: none;
+    outline: none;
+    font-size: inherit;
+    
+}
+label {
+    font-weight: bold;
+    color: black;
+    margin-right: 10px;
+    border-bottom: none;
+    border: none;
+
+}
+
+ 
+.green-button {
+    display: inline-block;
+    padding: 18px 35px;
+    background-color: #4CAF50; /* Green color */
+    color: #fff; /* Text color */
+    font-size: 35px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: gray;
+       
+       box-shadow: 0 2px 12px 3px rgba(0, 0, 0, 0.6), 0 0 0 1px #ccc; 
+    }
+
+
+    .green-button:hover {
+      background-color: #45a049; 
+    
+  }
+
+  
+.sec{ 
+    text-align: center;
+}
